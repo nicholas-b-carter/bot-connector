@@ -53,7 +53,7 @@
     "description": ""
   },
   "dependencies": {
-    "@slack/client": "^3.6.0",
+    "@slack/client": "^3.6.1",
     "babel-plugin-transform-runtime": "^6.15.0",
     "blueimp-md5": "^2.5.0",
     "body-parser": "^1.15.2",
